@@ -1,0 +1,1 @@
+custom hook -> To remove duplication from the components
